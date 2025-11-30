@@ -258,8 +258,8 @@ if client.is_connected():
 
 ---
 
-<!-- backgroundColor: #1e293b -->
-<!-- backgroundImage: url('https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1920&q=80') -->
+<!-- _backgroundImage: url('https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1920&q=80') -->
+<!-- _backgroundColor: #1e293b -->
 <!-- _color: white -->
 
 # **Distributed Architecture**
