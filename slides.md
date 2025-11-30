@@ -258,9 +258,8 @@ if client.is_connected():
 
 ---
 
-<!-- _backgroundImage: url('https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1920&q=80') -->
-<!-- _backgroundColor: #1e293b -->
-<!-- _color: white -->
+![bg](https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1920&q=80)
+![bg opacity:.3](https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1920&q=80)
 
 # **Distributed Architecture**
 
@@ -466,6 +465,8 @@ metrics:
 **Dashboard**: Available at `https://dashboard.cloudsync.io`
 
 ---
+
+![bg right:40%](https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&q=80)
 
 ## Security Considerations
 
